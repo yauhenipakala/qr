@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wcoder/qr.git"
+    "url": "git+https://github.com/yauhenipakala/qr.git"
   },
   "keywords": [
     "qrcode",
@@ -18,9 +18,9 @@
   "author": "Yauheni Pakala",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/wcoder/qr/issues"
+    "url": "https://github.com/yauhenipakala/qr/issues"
   },
-  "homepage": "https://github.com/wcoder/qr#readme",
+  "homepage": "https://github.com/yauhenipakala/qr#readme",
   "dependencies": {
     "qrcode": "^1.5.3"
   },
